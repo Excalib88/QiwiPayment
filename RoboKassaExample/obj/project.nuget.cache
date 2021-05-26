@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "W+lhaGuZCFR6iopfB9bI9CPbR6VcLCvY8fa6Xnf+xLqANwitkPsQiXscn3uoqC8K+8nphGKqYXFqR26vvvboSQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\RoboKassaExample\\RoboKassaExample\\RoboKassaExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rave9\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\qiwi.billpayments\\0.1.5\\qiwi.billpayments.0.1.5.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\qiwi.billpayments.json.newtonsoft\\0.1.5\\qiwi.billpayments.json.newtonsoft.0.1.5.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

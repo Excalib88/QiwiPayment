@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.RoboKassaExample.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../:\Projects\RoboKassaExample\.idea\.idea.RoboKassaExample\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
